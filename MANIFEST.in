@@ -1,0 +1,4 @@
+include setup.py README MANIFEST.in LICENSE
+recursive-include nexus_admin/templates *
+recursive-include nexus_admin/media *
+global-exclude *~
